@@ -1,0 +1,1 @@
+Shymkent Air Data: The goal was to find sensors out of operation for the city of Shymkent for AirData.kz project. The main task is to investigate the data by pre-processing and visualizing.
